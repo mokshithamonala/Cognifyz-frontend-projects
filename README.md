@@ -1,1 +1,1 @@
-# Cognifyz-frontend-projects
+frontend-projects
